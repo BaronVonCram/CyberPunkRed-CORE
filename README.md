@@ -1,5 +1,7 @@
 # CyberPunkRed-CORE
 
+Manifest: https://raw.githubusercontent.com/BaronVonCram/CyberPunkRed-CORE/main/module.json
+
 
 
 Based off DankTrain11949: https://raw.githubusercontent.com/DankTrain11949/CyberPunk-Red-Fan-Compendium/main/module.json
