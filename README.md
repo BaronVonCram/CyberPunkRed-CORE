@@ -15,3 +15,5 @@ Based off DankTrain11949: https://raw.githubusercontent.com/DankTrain11949/Cyber
 1.2: Added Ammo, Armor and some Drugs.
 
 1.3: Added life path roll tables, thanks to Segz.
+
+1.4: Removed NPC refernece for now.
