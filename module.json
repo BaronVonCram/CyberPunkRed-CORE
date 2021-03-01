@@ -200,6 +200,6 @@
 		}
 	],
 	"url": "https://github.com/BaronVonCram/CyberPunk-Red-Fan-Compendium",
-	"manifest": "https://raw.githubusercontent.com/BaronVonCram/CyberPunk-Red-Fan-Compendium/main/module.json",
+	"manifest": "https://raw.githubusercontent.com/BaronVonCram/CyberPunkRed-CORE/main/module.json",
 	"download": "https://github.com/BaronVonCram/CyberPunk-Red-Fan-Compendium/archive/main.zip"
 }
