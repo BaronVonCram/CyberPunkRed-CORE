@@ -199,7 +199,7 @@
 			"module": "CyberPunkRed-CORE"
 		}
 	],
-	"url": "https://github.com/BaronVonCram/CyberPunk-Red-Fan-Compendium",
+	"url": "https://github.com/BaronVonCram/CyberPunkRed-CORE",
 	"manifest": "https://raw.githubusercontent.com/BaronVonCram/CyberPunkRed-CORE/main/module.json",
-	"download": "https://github.com/BaronVonCram/CyberPunk-Red-Fan-Compendium/archive/main.zip"
+	"download": "https://github.com/BaronVonCram/CyberPunkRed-CORE/archive/main.zip"
 }
